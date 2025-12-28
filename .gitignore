@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model + checkpoints (optional)
+*.pkl
+*.bin
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+
+# Zip / cache
+*.zip
+.cache/
+
+saved_roberta_model/
+*.bin
+*.safetensors
